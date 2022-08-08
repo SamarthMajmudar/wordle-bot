@@ -14,7 +14,7 @@ This program will solve the daily wordle or any five letter word on the official
 * We must tap twice on 'N' to turn it yellow because 'N' is in "BRAIN" but it is not in the correct spot
 * We must tap three times on 'R' and 'A' to turn it green because both "CRANE" and "BRAIN" have 'R' and 'A' in the 2nd and 3rd position respectively
 * After clicking on the "Get Word" button we get the word "AWAIT"
-* We must trun 'W' and 'T' gray because they do not apear in "BRAIN", turn the first 'A'yellow because it is in "BRAIN" but not in the correct spot and finally turn the 2nd 'A' and 'I' green because they are in the correct spot
+* We must trun 'W' and 'T' gray because they do not apear in "BRAIN", turn the first 'A'yellow because it is in "BRAIN" but not in the correct spot, and finally turn the 2nd 'A' and 'I' green because they are in the correct spot
 *  Click on "Get Word" and do the same thing again until the bot gets "BRAIN" as its answer
 # How does it work
 I originally had made two algorithims for this program. The first used letter frequency and that took the bot 3.8 tries on average to get the wordle but the 2nd algorithim was more complex and that took 3.66 tries on average so I ended up using the 2nd one.
