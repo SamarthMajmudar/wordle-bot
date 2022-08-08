@@ -15,4 +15,4 @@ This program will solve the daily wordle or any five letter word on the official
 * We must tap three times on 'R' and 'A' to turn it green because both "CRANE" and "BRAIN" have 'R' and 'A' in the 2nd and 3rd position respectively
 * After clicking on the "Get Word" button we get the word "AWAIT"
 * We must trun 'W' and 'T' gray because they do not apear in "BRAIN", turn the first 'A'yellow because it is in "BRAIN" but not in the correct spot and finally turn the 2nd 'A' and 'I' green because they are in the correct spot
-*  
+*  Click on "Get Word" and do the same thing again until the bot gets "BRAIN" as its answer
